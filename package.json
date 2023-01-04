@@ -1,0 +1,25 @@
+{
+  "name": "send-email-sendgrid",
+  "version": "1.0.0",
+  "description": "This API send e-mails through SendGrid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jesse-js/sen-email-sendgrid.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jesse-js/sen-email-sendgrid/issues"
+  },
+  "homepage": "https://github.com/Jesse-js/sen-email-sendgrid#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "git-commit-msg-linter": "^4.5.0",
+    "nodemailer": "^6.8.0"
+  }
+}
